@@ -1,1 +1,46 @@
-
+{
+    "notify": {
+        "notAuthorized": "Deine Stufe ist dafür nicht ausreichend!",
+        "cancelledSpawn": "Fahrzeug-Spawn abgebrochen",
+        "vehicleSpawned": "Erfolgreich gespawnt %s",
+        "setPlate": "Kennzeichen gesetzt: %s",
+        "vehicleRepaired": "Fahrzeug repariert",
+        "vehicleRepairCancelled": "Fahrzeugreparatur abgebrochen",
+        "storeVehicle": "Fahrzeug eingelagert",
+        "invalidModel": "Dieses Fahrzeugmodell ist ungültig."
+    },
+    "textui": {
+        "opengarage": "**[E]** Garage öffnen"
+    },
+    "progress": {
+        "repairingVehicle": "Fahrzeug wird repariert..."
+    },
+    "target": {
+        "open": "%s verwalten"
+    },
+    "menu": {
+        "mechanicTitle": "Fuhrparkservice",
+        "changeExtras": "Extras ändern",
+        "changeLivery": "Lackierung ändern",
+        "changeColor": "Farbe ändern",
+        "repairVehicle": "Fahrzeug reparieren",
+        "changePlate": "Kennzeichen ändern",
+        "livery": "Lackierung: %s",
+        "extra": "Extra: %s",
+        "changePrimaryColor": "Primärfarbe ändern",
+        "changeSecondaryColor": "Sekundärfarbe ändern",
+        "inVehicle": "Garage",
+        "storeVehicle": "Fahrzeug einlagern"
+    },
+    "alert": {
+        "confirmSpawnTitle": "Bestätigen Sie, dass Sie **%s** spawnen möchten?",
+        "cancelSpawn": "Spawn abbrechen",
+        "confirmSpawn": "Spawn bestätigen"
+    },
+    "input": {
+        "color": "Fuhrparkservice (LACKIERUNG)",
+        "colorLabel": "Farbeneingabe",
+        "plate": "Kennzeichen ändern",
+        "plateDescription": "Muss zwischen 1-8 Zeichen lang sein"
+    }
+}
